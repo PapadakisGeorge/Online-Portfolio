@@ -4,19 +4,24 @@ export default {
   type: 'document',
   fields: [
     {
-      name: 'jobTitle',
-      title: 'Job Title',
+      name: 'company',
+      title: 'Company',
       type: 'string'
     },
     {
-      name: 'company',
-      title: 'Company',
+      name: 'jobTitle',
+      title: 'Job Title',
       type: 'string'
     },
     {
       name: 'description',
       title: 'Description',
       type: 'string',
+    },
+    {
+      name: 'imageURL',
+      title: 'ImageURL',
+      type: 'image'
     }
   ]
 }
