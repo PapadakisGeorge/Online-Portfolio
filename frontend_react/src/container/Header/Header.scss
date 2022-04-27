@@ -4,14 +4,10 @@
   background-size: cover;
   background-position: center;
   background-repeat: repeat;
-
+  
   // disable the default padding styles
   .app__wrapper {
     padding: 0;
-
-    .copyright {
-      display: none;
-    }
   }
 }
 
@@ -20,7 +16,7 @@
   width: 100%;
   height: 100%;
   flex-direction: row;
-
+  
   padding: 6rem 2rem 0rem;
 
   @media screen and (min-width: 2000px) {
