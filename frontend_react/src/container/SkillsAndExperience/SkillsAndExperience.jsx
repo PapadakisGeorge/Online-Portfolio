@@ -43,7 +43,10 @@ function SkillsAndExperience() {
                 className="app__skillsAndExperience-skills-item app__flex"
                 key={skill.name}
               >
-                <div className="app__flex" style={{ backroundColor: skill.bgColor }}>
+                <div 
+                  className="app__flex" 
+                  style={{ backroundColor: skill.bgColor }}
+                >
                   <img src={urlFor(skill.icon)} alt={skill.name} />
                 </div>
                 <p className="p-text">{skill.name}</p>
