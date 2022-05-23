@@ -96,4 +96,4 @@ function Projects() {
   )
 }
 
-export default AppWrap(MotionWrap(Projects, "app__projects"), "projects", "app__oldLacebg");
+export default AppWrap(MotionWrap(Projects, "app__projects"), "projects", "app_whitebg");

@@ -7,26 +7,9 @@
   background-color: var(--white-color);
 }
 
-.app__mintyRosebg {
-  background-color: var(--mintyRose-color);
+.app_secondarybg {
+  background-color: var(--background-secondary);
 }
-
-.app__papayaWhipbg {
-  background-color: var(--papayaWhip-color);
-}
-
-.app__seaShellbg {
-  background-color: var(--seaShell-color);
-}
-
-.app__oldLacebg {
-  background-color: var(--oldLace-color);
-}
-
-.app__paleGoldenRodbg {
-  background-color: var(--paleGoldenRod-color);
-}
-
 .app__primarybg {
   background-color: var(--primary-color);
 }
@@ -165,7 +148,7 @@
     width: 10px;
     height: 10px;
     border-radius: 50%;
-    background-color: #cbcbcb;
+    background-color: #851f1f;
     margin: 0.5rem;
 
     transition: background-color 0.2s ease-in-out;

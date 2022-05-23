@@ -79,4 +79,4 @@ function SkillsAndExperience() {
   )
 }
 
-export default AppWrap(MotionWrap(SkillsAndExperience, "app__skillsAndExperience"), "skillsAndExperience", "app__papayaWhipbg");
+export default AppWrap(MotionWrap(SkillsAndExperience, "app__skillsAndExperience"), "skillsAndExperience", "app_secondarybg");

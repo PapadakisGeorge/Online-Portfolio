@@ -4,17 +4,13 @@
   --font-base: "DM Sans", sans-serif;
 
   --primary-color: #edf2f8;
-  --secondary-color: #313bac;
+  --secondary-color: #C71585;
   --black-color: #030303;
   --lightGray-color: #e4e4e4;
   --gray-color: #6b7688;
   --brown-color: #46364a;
   --white-color: #F0FFFF;
-  --mintyRose-color: #FFE4E1;
-  --papayaWhip-color: #FFEFD5;
-  --oldLace-color: #FDF5E6;
-  --paleGoldenRod-color: #EEE8AA;
-  --seaShell-color: #FFF5EE;
+  --background-secondary: #F0F8FF;
 }
 
 * {
